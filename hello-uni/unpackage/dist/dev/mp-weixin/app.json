@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/navigator/navogator",
+    "pages/message/message",
+    "pages/list/list",
+    "pages/uni-style/uni-style",
+    "pages/contact/contact",
+    "pages/detail/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#7FFF00",
+    "backgroundColor": "#f51217"
+  },
+  "tabBar": {
+    "color": "#fc0b1c",
+    "selectedColor": "#4CD964",
+    "backgroundColor": "#e5eae9",
+    "borderStyle": "white",
+    "position": "bottom",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/home.png",
+        "selectedIconPath": "static/tabs/home-active.png"
+      },
+      {
+        "text": "信息",
+        "pagePath": "pages/message/message",
+        "iconPath": "static/tabs/message.png",
+        "selectedIconPath": "static/tabs/message-active.png"
+      },
+      {
+        "text": "我们",
+        "pagePath": "pages/contact/contact",
+        "iconPath": "static/tabs/contact.png",
+        "selectedIconPath": "static/tabs/contact-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

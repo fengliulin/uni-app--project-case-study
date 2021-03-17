@@ -1,0 +1,1 @@
+<view><view class="box2" hover-class="box2-active"><view class="box" hover-stay-time="0.1" hover-start-time="0.1" hover-stop-propagation="{{true}}" hover-class="box-active">我是一个大盒子</view></view><view><button size="mini" disabled="true">按钮</button></view><view><image mode="aspectFill" src="../../static/tabs/message-active.png"></image></view></view>

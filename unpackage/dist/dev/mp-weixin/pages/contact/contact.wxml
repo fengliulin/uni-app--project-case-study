@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src="../../static/swiper/2.png"></image><view class="info"><view>联系电话: 18111111111</view><view>小区地址：xxxxxxxxxxxxxxxxx</view></view><map name longitude="{{longitude}}" latitude="{{latitiude}}"></map></view>
